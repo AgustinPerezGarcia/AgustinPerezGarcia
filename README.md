@@ -1,10 +1,9 @@
 <h1 align="center">👋 ¡Hola! Soy Agustín</h1>
 
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Frontend+y+Backend+en+progreso;Aprendiendo+Java%2C+JavaScript+y+PHP;Construyendo+proyectos+poco+a+poco+🚀"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Estudiante+de+Desarrollo+Web;Frontend+y+Backend;Java%2C+JavaScript+y+PHP;Aprendiendo+cada+d%C3%ADa" />
+</p>
+
 </p>
 
 ---
