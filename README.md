@@ -1,8 +1,8 @@
-<div align="center">
-  <img src="banner-socials.png" alt="Banner con mis redes sociales">
-</div>
-
 <h1 align="center">👋 ¡Hola! Soy Agustín</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+Web;Frontend+y+Backend+en+progreso;Aprendiendo+Java+y+JavaScript;Siempre+mejorando+🚀" />
+</p>
 
 <p align="center">
   💻 Estudiante de <strong>Desarrollo de Aplicaciones Web</strong> <br>
