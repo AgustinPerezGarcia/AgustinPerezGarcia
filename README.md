@@ -1,25 +1,24 @@
 <h1 align="center">👋 ¡Hola! Soy Agustín</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Estudiante+de+Desarrollo+Web;Frontend+y+Backend+en+progreso;Aprendiendo+Java+y+JavaScript;Siempre+mejorando+🚀" />
-</p>
-
-<p align="center">
-  💻 Estudiante de <strong>Desarrollo de Aplicaciones Web</strong> <br>
-  🚀 Apasionado por el desarrollo web y el aprendizaje constante
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38B2AC&center=true&vCenter=true&width=550&lines=Estudiante+de+Desarrollo+de+Aplicaciones+Web;Frontend+y+Backend+en+progreso;Aprendiendo+Java%2C+JavaScript+y+PHP;Construyendo+proyectos+poco+a+poco+🚀"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-Soy estudiante de **DAW**, combinando la formación académica con la autoeducación y la práctica diaria.  
-Me gusta entender **cómo funcionan las cosas por dentro**, escribir código limpio y mejorar poco a poco en cada proyecto.
+Soy estudiante de **Desarrollo de Aplicaciones Web (DAW)**.  
+Combino la formación académica con la **autoeducación y la práctica diaria**, centrándome en mejorar mis bases y entender cómo funcionan las aplicaciones por dentro.
 
-Actualmente me centro en:
-- 🔹 Desarrollo web **full stack**
-- 🔹 Buenas prácticas y organización del código
-- 🔹 Aprender haciendo (proyectos reales y ejercicios)
+Me gusta:
+- 💻 Desarrollar aplicaciones web
+- 📚 Aprender nuevas tecnologías
+- 🧩 Resolver problemas y mejorar mi código
+- 🚀 Progresar poco a poco, pero de forma constante
 
 ---
 
@@ -60,13 +59,14 @@ Actualmente me centro en:
 - 📚 Mejorando mis bases en **Java**
 - 🌐 Proyectos web con **HTML, CSS y JavaScript**
 - 🧩 Aprendiendo a estructurar mejor aplicaciones backend
+- 🔧 Uso de Git y GitHub en proyectos reales
 
 ---
 
 ## 📫 Contacto
-Si quieres hablar de desarrollo, colaborar en algún proyecto o simplemente charlar:
+Si te interesa mi perfil, quieres colaborar o simplemente hablar de desarrollo:
 
-👉 **Mira mis repositorios o contáctame por mis redes**
+👉 **Explora mis repositorios o contáctame por mis redes**
 
 ---
 
